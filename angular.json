@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "manager-emp-registration"
+    }
+  },
+  "defaultProject": "manager-emp-registration",
+  "cli": {
+    "analytics": false
+  }
 }
